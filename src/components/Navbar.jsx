@@ -53,7 +53,7 @@ function Navbar() {
 
           {/* CV */}
           <a
-            href="https://drive.google.com/file/d/1m5mC84zi7dW427R8h0hOqYWerdlzDI4U/view?usp=sharing"
+            href="https://drive.google.com/file/d/1OJjqYC3qsbbkaJ47ndnIgQh-FkJ3ZEC5/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
             className="
