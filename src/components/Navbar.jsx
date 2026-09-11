@@ -53,36 +53,12 @@ function Navbar() {
 
           {/* CV */}
           <a
-            href="https://drive.google.com/file/d/1OJjqYC3qsbbkaJ47ndnIgQh-FkJ3ZEC5/view?usp=sharing"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="
-              group
-              ml-2
-              flex
-              items-center
-              gap-2
-              rounded-full
-              bg-[#171717]
-              px-5
-              py-2.5
-              font-body
-              text-[11px]
-              font-medium
-              uppercase
-              tracking-[0.08em]
-              text-white
-              transition-all
-              duration-300
-              hover:bg-[#d96c4f]
-            "
-          >
-            CV
-
-            <span className="transition-transform duration-300 group-hover:translate-x-0.5 group-hover:-translate-y-0.5">
-              ↗
-            </span>
-          </a>
+  href="https://drive.google.com/file/d/1OJjqYC3qsbbkaJ47ndnIgQh-FkJ3ZEC5/view?usp=sharing"
+  target="_blank"
+  rel="noopener noreferrer"
+>
+  View CV
+</a>
         </nav>
 
 
