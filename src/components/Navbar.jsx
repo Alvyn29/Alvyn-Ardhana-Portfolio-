@@ -51,45 +51,45 @@ function Navbar() {
             </a>
           ))}
 
-          {/* CV */}
-          <a
+{/* CV */}
+<a
   href="https://drive.google.com/file/d/1OJjqYC3qsbbkaJ47ndnIgQh-FkJ3ZEC5/view?usp=sharing"
   target="_blank"
   rel="noopener noreferrer"
 >
   View CV
 </a>
-        </nav>
+</nav>
 
 
-        {/* MOBILE CV */}
-        <a
-          href="/cv/Alvyn-Ardhana-CV.pdf"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="
-            rounded-full
-            bg-[#171717]
-            px-5
-            py-2.5
-            font-body
-            text-[11px]
-            font-medium
-            uppercase
-            tracking-[0.08em]
-            text-white
-            transition-colors
-            duration-300
-            hover:bg-[#d96c4f]
-            md:hidden
-          "
-        >
-          CV ↗
-        </a>
+{/* MOBILE CV */}
+<a
+  href="https://drive.google.com/file/d/1OJjqYC3qsbbkaJ47ndnIgQh-FkJ3ZEC5/view?usp=sharing"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="
+    rounded-full
+    bg-[#171717]
+    px-5
+    py-2.5
+    font-body
+    text-[11px]
+    font-medium
+    uppercase
+    tracking-[0.08em]
+    text-white
+    transition-colors
+    duration-300
+    hover:bg-[#d96c4f]
+    md:hidden
+  "
+>
+  CV ↗
+</a>
 
-      </div>
-    </header>
-  );
+</div>
+</header>
+);
 }
 
 export default Navbar;
